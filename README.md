@@ -3,7 +3,7 @@
 
 # Read Me Template
 
-![Project Image](https://www.imagehousing.com/image/Xaf5q)
+![Project Image](https://i.postimg.cc/QNJPZHQT/Screenshot-2.png)
 
 > This is a ReadMe template to help save you time and effort.
 
