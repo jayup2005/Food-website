@@ -1,0 +1,357 @@
+@media screen and (max-width: 1150px) {
+
+.navbar ul{
+    display: none;
+   
+}
+.icons{
+    display: none;
+}
+.fa-hamburger{
+    display: block;
+    font-size: 35px;
+    margin-left: 35rem;
+    cursor: pointer;
+}
+.imagp{
+    width: 35rem;
+}
+
+.icons{
+    margin-left: 30rem;
+}
+.logo{
+    font-size: 45px;
+ 
+    
+}
+
+.dishes{
+    overflow: hidden;
+
+}
+.box-container{
+    overflow: hidden;
+    margin-left: 5rem;
+    grid-template-columns: 30rem 30rem;
+    
+   
+}
+
+.texts{
+    right: 2rem;
+}
+
+
+
+}
+
+@media screen and (max-width: 980px){
+    
+.fa-hamburger{
+    margin-left: 28rem;
+}
+
+
+.box-container{
+   
+    grid-template-columns: 26rem 26rem;
+    margin-left: 3.5rem;
+}
+
+.btn1{
+    top: 35px;
+}
+
+.imagp{
+    width: 33rem;
+}
+
+}
+
+@media screen and (max-width: 900px){
+    .fa-hamburger{
+        margin-left: 25rem;
+    }
+    
+    
+    .box-container{
+       
+        grid-template-columns: 23rem;
+        margin-left: 8rem;
+    }
+    
+    .btn1{
+        top: 35px;
+    }
+    
+    .imagp{
+        width: 30rem;
+    }
+
+    .box{
+        width: 35rem;
+        height: 30rem;
+    }
+    .box img{
+        width: 18rem;
+    }
+    .box h3{
+        font-size: 35px;
+    }
+    .pbtn span{
+        font-size: 35px;
+    }
+
+    .btn{
+        font-size: 25px;
+    }
+
+    .pbtn .btn{
+        height: 40px;
+        font-size: 30px;
+    }
+    
+    .heading{
+        font-size: 45px;
+    }
+
+    .sub-heading{
+        font-size: 45px;
+    }
+
+
+}
+
+@media screen and (max-width: 870px){
+    .imagp{
+        width: 20rem;
+    }
+
+    .btn{
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width:800px){
+    .imagp{
+        width: 15rem;
+    }
+
+    .fa-hamburger{
+        margin-left: 20rem;
+    }
+
+    .box-container{
+       
+        grid-template-columns: 23rem;
+        margin-left: 6rem;
+    }
+
+    .text-main{
+        font-size: 25x;
+    }
+    
+    .content h3{
+        font-size: 60px;
+    }
+    
+    .content p{
+        font-size: 20px;
+    }
+    
+}
+
+
+@media screen and (max-width:700px){
+    .imagp{
+        width: 15em;
+    }
+
+    .fa-hamburger{
+        margin-left: 13rem;
+    }
+
+    .box-container{
+       
+        grid-template-columns: 23rem;
+        margin-left: 6rem;
+    }
+
+    .text-main{
+        font-size: 20x;
+    }
+    
+    .content h3{
+        font-size: 55px;
+    }
+    
+    .content p{
+        font-size: 15px;
+    }
+
+      
+    .heading{
+        font-size: 35px;
+    }
+
+    .sub-heading{
+        font-size: 40px;
+    }
+
+    .box{
+        width: 28rem;
+        height: 30rem;
+    }
+    .box img{
+        width: 15rem;
+    }
+    .box h3{
+        font-size: 35px;
+    }
+    .pbtn span{
+        font-size: 35px;
+    }
+
+    .pbtn .btn{
+        font-size: 20px;
+        height: 38px;
+    }
+
+  
+}
+
+@media screen and (max-width:650px ){
+    .imagp{
+        width: 13em;
+        position: relative;
+        bottom: 12rem;
+        right: 2rem;
+    }
+
+    .fa-hamburger{
+        margin-left: 10rem;
+    }
+
+    .main{
+        flex-direction: column;
+        margin: 3rem 2rem;
+    }
+
+    .box-container{
+        margin-left: 4rem;
+    }
+
+    .text-main{
+        font-size:x;
+        position: relative;
+        top: 1rem;
+    }
+    
+    .content h3{
+        font-size: 35;
+    }
+    
+    
+    .content p{
+        font-size: 15px;
+        width: 15rem;
+    }
+
+    .content{
+        text-align: center;
+        position: relative;
+        top: 12rem;
+        right: 2rem;
+    }
+}
+
+@media screen and (max-width:550px ){
+
+    .fa-hamburger{
+        margin-left: 6rem;
+    }
+
+    .box-container{
+        margin-left: 3rem;
+    }
+
+    .box{
+        width: 25rem;
+        height: 30rem;
+    }
+    .box img{
+        width: 10rem;
+    }
+    .box h3{
+        font-size: 30px;
+    }
+    .pbtn span{
+        font-size: 35px;
+    }
+
+    .pbtn .btn{
+        font-size: 20px;
+        height: 33px;
+    }
+
+    .logo{
+        position: relative;
+        right: 3rem;
+    }
+}
+
+@media screen and (max-width: 500px ){
+
+    .fa-hamburger{
+        margin-left: 5rem;
+    }
+   .box{
+        width: 22rem;
+        height: 30rem;
+    }
+}
+
+@media screen and (max-width:470px ){
+
+    .fa-hamburger{
+        margin-left: 3rem;
+    }
+
+
+
+    .box{
+        width: 20rem;
+        height: 30rem;
+    }
+
+
+    .pbtn span{
+        font-size: 28px;
+    }
+
+    .pbtn .btn{
+        font-size: 18px;
+        height: 33px;
+    }
+
+    .logo{
+        font-size: 30px;
+    }
+
+    .imagp{
+        width: 13em;
+        position: relative;
+        bottom: 15rem;
+        right: 2rem;
+    }
+
+    .content{
+        text-align: center;
+        position: relative;
+        top: 10rem;
+        right: 2rem;
+    }
+}
